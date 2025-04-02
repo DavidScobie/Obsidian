@@ -11,10 +11,14 @@
             "id": "a6e12aa6b1375ce2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "C_sharp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C_sharp"
             }
           }
         ]
@@ -164,7 +168,11 @@
   },
   "active": "a6e12aa6b1375ce2",
   "lastOpenFiles": [
+    "cloud_computing.md",
+    "C_sharp.md",
+    "python.md",
     "dataview_queries.md",
+    "Project_coordinator.md",
     "quality_assurance.md",
     "computer_networks.md",
     "predictive_model.md",
@@ -186,10 +194,6 @@
     "systems_engineering.md",
     "system_tools.md",
     "Software_Developer.md",
-    "Rich_interactive_web_development.md",
-    "Quantitative_trader.md",
-    "Project_coordinator.md",
-    "Project_administrator.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "UI",
