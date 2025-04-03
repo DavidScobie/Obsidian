@@ -8,3 +8,5 @@ Statista.com
 
 Good degrees for preparation:
 [[computer_science]], [[systems_engineering]], [[Cyber_Security]]
+
+Day to day tasks:

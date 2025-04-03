@@ -11,6 +11,6 @@ Frameworks:
 Difficulty:
 Intermediate
 
-Also a musical note
+Also a spooky musical note
 
 

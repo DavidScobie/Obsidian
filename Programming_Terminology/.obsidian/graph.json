@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "dyst",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 8.54671280276817,
   "linkStrength": 0.240484429065744,
   "linkDistance": 159,
-  "scale": 0.9409928231902609,
+  "scale": 0.9335014582528672,
   "close": true
 }
