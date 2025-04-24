@@ -1,0 +1,2 @@
+#framework 
+Spark is an open source framework focused on interactive query, machine learning, and real-time workloads. It does not have its own storage system, but runs analytics on other storage systems like HDFS
