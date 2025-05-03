@@ -1,0 +1,2 @@
+The FBI needed to implement a new system, as it's new one involved too much paperwork and approval, resulting in 9/11. They tried the classic [[waterfall]] method based on a [[gantt]] chart, but this was costly and failed. [[Operation_sentinel]](scrum method) worked excellently. 
+Takeaways: 'Plans are worthless, but planning is everything'. 'Inspect and adapt'. 'Change or die'. 'Fail fast so you can fix early'

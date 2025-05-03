@@ -7,6 +7,6 @@ Be able to analyse design processes, evaluations of data. Analysts use a wide ra
 https://www.wgu.edu/career-guide/information-technology/computer-systems-analyst-career.html
 
 Good degrees for preparation:
-[[IT]], [[maths]], [[cloud_computing]] 
+[[IT]], [[maths]], [[cloud]] computing
 
 

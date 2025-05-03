@@ -1,0 +1,1 @@
+Working too long means that not only you get distracted, but also those around you. This occurs often at [[EMG_education]].

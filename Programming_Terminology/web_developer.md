@@ -6,4 +6,4 @@ Credentials:
 Certified in several programming languages (including [[python]], [[javascript]], [[PHP]])
 
 Good degrees for preparation:
-[[Software_engineer]], [[computer_science]], [[cloud_computing]]
+[[Software_engineer]], [[computer_science]], [[cloud]] computing

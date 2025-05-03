@@ -1,0 +1,1 @@
+When a women loves someone, they want all of their attention, all of their time. They want the person to be inside them (true with babies also).

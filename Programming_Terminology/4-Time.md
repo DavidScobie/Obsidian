@@ -1,0 +1,2 @@
+Daily scrum meetings (at same O'clock) are very important: 15 mins max, everyone asked: what they did? What they'll do? What's hindering them? Discussion and helping between teams is crucial to keep tasks on track or kill them quickly if necessary.
+No labelled roles, anyone can do any type of task.

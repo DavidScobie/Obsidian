@@ -1,0 +1,1 @@
+Non-profit foundation that manages open-source software projects

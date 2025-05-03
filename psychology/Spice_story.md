@@ -1,0 +1,1 @@
+Rejecting a women is like adding spice to food, it is bland otherwise. We like spice in our food, hence saying no to them increases their attraction to us.

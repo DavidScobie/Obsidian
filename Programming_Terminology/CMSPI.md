@@ -42,7 +42,7 @@ _****Essential skills:
   
 **
 
-- Familiarity with [[Agile]] practices in a collaborative team environment- Exposure to [[big_data]] tools, such as [[Hadoop]] and [[Spark]] for handling large-scale datasets- Experience with cloud platforms like [[Microsoft_Azure]]  
+- Familiarity with [[Agile]] practices in a collaborative team environment- Exposure to [[big_data]] tools, such as [[Hadoop]] and [[Spark]] for handling large-scale datasets- Experience with [[cloud]] platforms like [[Microsoft_Azure]]. 
       
       
     

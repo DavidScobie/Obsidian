@@ -6,4 +6,4 @@ Credentials:
 
 
 Good degrees for preparation:
- [[Cyber_Security]], [[cloud_computing]], [[IT]] 
+ [[Cyber_Security]], [[cloud]] computing, [[IT]] 
