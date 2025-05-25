@@ -1,0 +1,1 @@
+[https://www.hostelworld.com/pwa/hosteldetails.php/Surf-Camp-79/Kuta-Lombok/302059?from=2025-06-01&to=2025-06-07&guests=1](https://www.hostelworld.com/pwa/hosteldetails.php/Surf-Camp-79/Kuta-Lombok/302059?from=2025-06-01&to=2025-06-07&guests=1) this could be good surf hostel (hostels are around £10/night)

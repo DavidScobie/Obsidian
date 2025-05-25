@@ -1,0 +1,1 @@
+[https://www.bookyogaretreats.com/pelan-pelan-bali/8-days-couples-surf-camp-and-yoga-retreat-canggu-bali?aid=7785](https://www.bookyogaretreats.com/pelan-pelan-bali/8-days-couples-surf-camp-and-yoga-retreat-canggu-bali?aid=7785) – a good camp in Canggu

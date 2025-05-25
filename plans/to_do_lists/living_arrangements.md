@@ -1,0 +1,1 @@
+Even 1 month with Bob would be a good experience

@@ -1,0 +1,1 @@
+To achieve the top (self-actualisation) you need what's under that (respect from others and self-esteem), and under that there is (love and belonging, connectedness)

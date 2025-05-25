@@ -9,6 +9,11 @@ Author - JJ Sutherland (former reconnaissance pilot in the Vietnam war)
 
 [[4-Time]]
 
-[[5-Waste_is_a_crime]]
+[[5-Waste]]
 
 [[6-Plan_reality_not_fantasy]]
+
+[[7-Happiness]]
+
+[[8-Priorities]]
+

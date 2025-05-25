@@ -1,0 +1,1 @@
+A piece of art that intentionally imitates someone else's art.

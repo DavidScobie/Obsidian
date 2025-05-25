@@ -1,0 +1,1 @@
+A more passive, subservient, physically weak, indecisive type of man.

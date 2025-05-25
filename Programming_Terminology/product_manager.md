@@ -1,0 +1,3 @@
+This person is a leader but without much authority, as they have to persuade the team to carry out the backlog items.
+They interact 50% with the customer, to figure out what they want/need in the product, and 50% making the [[backlog]]. 
+They need to be knowledgeable (what can and can't be done), empowered (given leeway to make decisions), available (constant dialogue with the team) and accountable (they must make enough revenue per effort point ([[Fibonacci_weighting]])).

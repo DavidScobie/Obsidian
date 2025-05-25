@@ -1,0 +1,1 @@
+Surf destinations by time of year - [https://sundazesurf.com/blogs/news/the-bali-surf-season-when-to-visit-for-the-best-waves](https://sundazesurf.com/blogs/news/the-bali-surf-season-when-to-visit-for-the-best-waves)

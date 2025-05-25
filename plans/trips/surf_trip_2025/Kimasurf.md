@@ -1,0 +1,1 @@
+[https://kimasurf.com/canggu-surfresort](https://kimasurf.com/canggu-surfresort) - the canggu surf yoga camp (from xmas)

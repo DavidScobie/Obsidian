@@ -1,0 +1,1 @@
+Before reaching this point, your head is full of facts from your family, friends, media... These are not your own thoughts, but ones you identify with. These thoughts are often wrong or useless.

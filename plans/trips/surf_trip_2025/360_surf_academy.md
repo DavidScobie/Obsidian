@@ -1,0 +1,1 @@
+[https://www.360surfacademy.com/book-accommodations-and-surfing](https://www.360surfacademy.com/book-accommodations-and-surfing) This could be good surf camp, although it is fully booked.

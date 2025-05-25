@@ -1,0 +1,1 @@
+Like a diet of the mind (not the stomach).
