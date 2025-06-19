@@ -1,0 +1,1 @@
+Where the scrum masters of the individual teams gather to remove impediments. This can be daily or a few times a sprint.

@@ -1,0 +1,1 @@
+Events in the future that are so certain to happen, that they are described as if they've already happened. 

@@ -1,3 +1,0 @@
-Pro teaching - Many people feel like an imposter in their 1st year (like EMG Sam). It gets easier with time.
-
-Dont rule out Vietnam - mundo lingo thursday soma social good way to network. There may be data science jobs here (Nick EMG wife works for investment company (EMG Matthew) that hire English speakers, apparently plan to build Hanoi to Saigon railway). Engineers are getting jobs in vietnam. Or find some kind of data science 'meetup' group or FB group...

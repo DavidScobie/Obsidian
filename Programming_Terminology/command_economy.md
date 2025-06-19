@@ -1,0 +1,1 @@
+The government controls the means if production, and determines what goods and services are produced.

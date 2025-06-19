@@ -1,3 +1,7 @@
+Heavily tied to the book [[the_world_in_2050_book]]
+
+Dont rule out Vietnam - mundo lingo thursday soma social good way to network. There may be data science jobs here (Nick EMG wife works for investment company (EMG Matthew) that hire English speakers, apparently plan to build Hanoi to Saigon railway). Engineers are getting jobs in vietnam. Or find some kind of data science 'meetup' group or FB group...
+
 According to EMG Gary:
 UK - Going downhill fast. We our losing our financial industry. When that is gone it will be in a poor state. 
 Western Europe - Going a similar way to the UK

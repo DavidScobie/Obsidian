@@ -1,0 +1,1 @@
+Labourers exchange time and skills for wages.

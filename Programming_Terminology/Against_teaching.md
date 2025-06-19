@@ -1,0 +1,1 @@
+I often enjoyed solving the problems myself more than teaching the students 

@@ -1,0 +1,1 @@
+Motivate the people by reminding them what the purpose of their job is (defense, defend the country, very noble). Staff should skip to work..

@@ -1,0 +1,1 @@
+Something that can exist as a superposition of states e.g 30% spin up and 70% spin down (for an electron).

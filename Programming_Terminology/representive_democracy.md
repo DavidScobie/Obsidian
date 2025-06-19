@@ -1,0 +1,1 @@
+Citizens elect delegates to make decisions on their behalf. 

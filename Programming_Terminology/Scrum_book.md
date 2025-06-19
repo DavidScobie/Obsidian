@@ -17,3 +17,8 @@ Author - JJ Sutherland (former reconnaissance pilot in the Vietnam war)
 
 [[8-Priorities]]
 
+[[9-The_Enterprise]]
+
+[[10-Change_the_world]]
+
+

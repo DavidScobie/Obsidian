@@ -1,0 +1,1 @@
+Knowledge, skills and health that people accumulate, allowing them to be productive members of society.

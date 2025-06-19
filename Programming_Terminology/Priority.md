@@ -1,0 +1,1 @@
+enterprise prioritising allows common focus to the same goal. Think about what to de-prioritize too.

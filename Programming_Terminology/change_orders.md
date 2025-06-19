@@ -1,0 +1,1 @@
+If a customer wants a modification, they have to pay extra for it.

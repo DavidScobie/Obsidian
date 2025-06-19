@@ -1,0 +1,1 @@
+synchronise the teams (communicate) so that wait times are short. This ensures quick delivery. 

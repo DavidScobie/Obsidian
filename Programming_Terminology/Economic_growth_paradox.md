@@ -1,0 +1,1 @@
+Sustained growth requires greater social stability. But this requires better job opportunities, which requires economic growth.

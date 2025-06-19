@@ -1,0 +1,1 @@
+If you fire electrons at a double-slit, you see a wave on the screen (from the constructive and destructive interference of many electrons) rather than 2 light patches and dark elsewhere (the classical prediction).

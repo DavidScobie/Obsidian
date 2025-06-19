@@ -1,0 +1,1 @@
+Never quite achieving developed country status.

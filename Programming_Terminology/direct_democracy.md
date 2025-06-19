@@ -1,0 +1,1 @@
+Whenever a significant government decision is made (like cycle paths), if enough votes, then citizens put it to a referendum. 

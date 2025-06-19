@@ -1,0 +1,1 @@
+https://www.findaphd.com/phds/project/dynamics-of-analogue-quantum-simulators/?p184813

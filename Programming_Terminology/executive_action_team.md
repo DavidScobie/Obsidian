@@ -1,0 +1,1 @@
+Responsible for, and empowered to remove organizational impediments. The hub of the scrum master in [[scrum@scale]]. 

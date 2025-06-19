@@ -1,0 +1,1 @@
+Minimal government involvement. I.e. Belief that resources are well-allocated with no government influence. 

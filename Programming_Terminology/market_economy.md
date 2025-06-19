@@ -1,0 +1,1 @@
+Characterized by competition and free trade. Private property and minimal government interference. 
