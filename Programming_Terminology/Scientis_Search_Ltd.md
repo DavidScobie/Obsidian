@@ -1,8 +1,16 @@
+---
+Rating: 9
+Location: Bicester
+Expired: yes
+Notes: looked great
+Applied: yes
+Status: Waiting
+---
 https://www.linkedin.com/jobs/search/?currentJobId=4199450161&distance=25&geoId=105779839&keywords=agile%20junior%20data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
 #jobs/advertisement 
 
 
-## About the job
+About the job
 
 **[[Mathematical_Modeller]] – Join an Innovative Market Access Consultancy**
 

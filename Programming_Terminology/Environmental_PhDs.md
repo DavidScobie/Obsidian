@@ -1,11 +1,13 @@
-https://www.findaphd.com/phds/project/studying-tipping-points-and-noise-induced-transitions-in-the-climate-system-with-rare-event-simulation-techniques/?p185234
+[[noise_induced_transitions_PhD]]
 
-https://www.findaphd.com/phds/project/how-is-climate-change-affecting-atmospheric-turbulence/?p158293
+[[atmospheric_turbulence_PhD]]
 
-https://www.findaphd.com/phds/project/numerical-modelling-of-pulsed-injection-protocols-for-subsurface-energy-and-co2-storage/?p183395  Have asked if they are still hiring
+[[subsurface_energy_CO2_storage_PhD]] - conversation
 
-https://www.findaphd.com/phds/project/climate-resilient-submerged-infrastructure/?p179464
+[[submerged_infrastructure_PhD]]
 
-https://www.findaphd.com/phds/project/a-dive-into-tropical-waters-understanding-the-mechanisms-of-sea-surface-temperature-patterns-that-drive-global-climate-and-weather/?p181597 Have asked if they are still hiring
+[[sea_surface_temp_patters_PhD]]
 
-https://www.findaphd.com/phds/project/optimising-underground-energy-storage-systems-through-mathematical-modelling-and-data-integration/?p180832 Have asked if they are still hiring
+[[underground_energy_storage_PhD]] - conversation
+
+[[fluid_dynamics_for_flood_defences]]

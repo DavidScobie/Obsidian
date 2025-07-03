@@ -10,8 +10,10 @@ Although, UK does high-end manufacturing (racing cars, aircraft engines)
 Services and manufacturing are bound (a plane is sold, but also maintained for 20 years).
 Incredibly uneven economy (W London.. rich. W Wales, Cornwall, Lincolnshire.. poor)
 Also uneven in: health; education; corporate performance (output per employee is low).
-Similarities to US, Australia, Canada: Open to foreign investment; common legal system; banking; financial market structure; labour-market legislation; incentive consumers; business practices.
+Similarities to US, Australia, Canada: Open to foreign investment; common legal system; banking; financial market structure; labour-market legislation; inventive consumers; business practices.
 Favourable demographic outlook (growing young population), hence UK will grow faster than W Europe. This doesn't guarantee economic success, but certainly helps.
+Suffers from [[privatisation]] and [[price_gauging]], which has occured since the 1980's, due to [[neoliberalism]] and the fall of [[trade_union]]s.
+Currently finding a job is tough as national insurance tax has gone up, and minimum wage has gone up.
 
 Ireland -
 doing well - Exports a lot (agriculture to UK). They are base for the tech giants also (due to low corporation tax, and well-educated, English-speaking workforce).

@@ -1,3 +1,11 @@
+---
+Rating: 
+Location: Manchester
+Expired: Yes
+Notes: Looked good
+Applied: no
+---
+
 https://www.linkedin.com/jobs/search/?currentJobId=4176185908&keywords=junior%20data%20scientist&origin=BLENDED_SEARCH_RESULT_NAVIGATION_SEE_ALL&originToLandingJobPostings=4178746611%2C4204781822%2C4190405618
 
 #jobs/advertisement

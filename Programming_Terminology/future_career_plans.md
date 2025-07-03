@@ -6,6 +6,18 @@ Perhaps I could scout around for interesting looking PhD's but mainly look at mo
 
 [[PhD]]?
 
-[[Industry_jobs]]
+[[Working_abroad]]
+
+[[Recruiters]]
+
+[[job_search_platforms]]
+
+[[Cover_Letters]]
+
+
+
+
+
+
 
 

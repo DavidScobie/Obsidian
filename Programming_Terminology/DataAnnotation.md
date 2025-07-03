@@ -1,3 +1,11 @@
+---
+Rating: 8
+Location: Remote
+Expired: No
+Notes: Gig work. High pay. Qualified. Using AI
+Applied: yes
+Status: Waiting
+---
 #jobs/advertisement 
 
 https://app.dataannotation.tech/workers/projects

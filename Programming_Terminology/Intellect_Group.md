@@ -1,3 +1,10 @@
+---
+Rating: 
+Location: London
+Expired: Yes
+Notes: Looked good
+Applied: no
+---
 https://www.linkedin.com/jobs/view/4203157727/?eBP=CwEAAAGWdotW38J7Do3oGx_9IMo3LJzRDlvkx3D-56sYMa62nGWbDt_ESc4VkaVVkQhpi7lNwIQcYjjidINbLB0_bEwXbvC4b60BAO1bGYggPg6PIlhshC-HWheJ27T1QKyl_Iz3BLHCPPkvfKfxhshBE_SyZUyXW_VmaGuEO1mJXmrUk3vxiLysaWUZDjksRphgH0Yf4mICzLLqcTncWi9rPNhped-ublIhPOfFblwLDP-6lXD4BD80bUU4kFW-iOW8h-cDIIEEgf1QIhZVCAWyhs5riO9WTg3M0VMfak6F4sKGxO7HtkJqID9tMhuU8GTGRlshlTs9GXsPdyXg71klitqXTH5hyKsVdQty2zLqvd_uOfhwbXFlaQDB2clpUANX_LiW-XoKWVfkgKdpCzB-jh5EdPGxjslZD6LlXdByOPSBsdkzZlqeen9Cky7tmAzdxRz8EsZ3Uqw8ofbEXBYlpm4XFCorxyt8G95HUINEUBboqA&refId=ZVSDEDchNJvi1edsmLsp%2FA%3D%3D&trackingId=OMFquWmwnP8KBsClszp4Ng%3D%3D&trk=flagship3_jobs_discovery_jymbii
 
 #jobs/advertisement

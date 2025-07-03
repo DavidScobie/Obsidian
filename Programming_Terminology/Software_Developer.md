@@ -7,3 +7,10 @@ Good to know [[python]], [[java]], [[javascript]], [[C_sharp]]
 
 Good degrees for preparation:
 [[computer_science]], [[engineer]], [[maths]]. 
+
+Advertisements:
+[[Sprint_Reply]]
+[[Wallance_Hind]]
+[[Exposed_Solutions]]
+
+
