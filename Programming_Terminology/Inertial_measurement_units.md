@@ -1,0 +1,1 @@
+These include gyroscopes, accelerometers and altimeters. They deliver a relative positioning service, enabling a PNT system to continue to calculate a position when connection to a global positioning system (such as GNSS) is lost. However, drift in these systems means they require calibration by a precise global positioning system at regular intervals.

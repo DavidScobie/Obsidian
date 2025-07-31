@@ -1,0 +1,3 @@
+- target cell replenishment
+- IFN reduces infectivity rate
+- IFN reduces viral replication rate

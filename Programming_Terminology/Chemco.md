@@ -1,0 +1,11 @@
+---
+Rating: 6
+Location: Brackley
+Expired: 4th July
+Notes: Very local. Working for Jonny. Perhaps an easy role
+Applied: yes
+Status: Rejected
+---
+#jobs/advertisement 
+https://uk.indeed.com/viewjob?jk=aee55252b7ebe09a&advn=8938740852326637&adid=447184400&ad=-6NYlbfkN0ApWJWz2NdFIViCI1gd8ltCJsLT5tkPRtXpVWoG60pZ7kCjH_DuHzKUi-3iDnXL413KPuj5lauLxBNfrG_RLVbsLrDgj21DEjaMCcTztKdyLj-J39QxslOixDYlmj1hXH9XwXjzme7s_Ri3hgymR3JAC7jjr07nvUvYd4iXVc_EGJjY0Nu06U86uX2DXYTmjsgvLq0zzKFMcjTIPiBeCQ_83T803KTOX2MtwjuLITdlZ5Fq2sEfDnneIIJnyGeGDm3ZwQ5jF3G2ECIJ4ypIM4IKDUXthfRG3zgM11VUbeUEOsJjR8Mdi10-DiqebN1UN4HKYf3iLRpZDD3bcAkxaiuiA3RMc9usNMkdY_qbKqzT_LSfJug_qhnebjjO1mLEHAWU5QXKxOm_NlGKxxDjr889Pbql_Q6VgWv8vhzwTfzq3CQ-MzZ_GiwdR5Fr8-4k9esQotyD0Qtgb8h1UKKRtwnnfZqO_D6fvdhknICkz6UHPLeB9tY558YyLS55L6_4vBveO1JaD7YWtBdiiG7YccQ5VXs5OCuoz3vYo6RzEO5oA9ft25bxss_dNY2QdUAmdrBXRpbnkBo77CUKMEV7x-rq&from=mobRdr&dest=http%3A%2F%2Fuk.indeed.com%2Fjob%2Faccounts-assistant-aee55252b7ebe09a&desth=3c94230e298eccd358f99a4867ce0f6e&prevUrl=http%3A%2F%2Fuk.indeed.com%2Fq-accounting-l-brackley-jobs.html&tk=1itsc3jcfiags800&dupclk=1&acatk=1itsc4hbpkhil801&mclk=default&pub=6917c08ec3ecf6012dd26f3773156e870cace3277f6b99df&camk=ethIe0s0hedI6-VM_YemrQ%3D%3D&xkcb=SoBh6_M3x8QBtJxuhZ0GbzkdCdPP&xpse=SoBI6_I3x8Qd8J22kB0IbzkdCdPP&xfps=9b5ee318-4555-4207-9e47-8ae30c9dff47&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt
+

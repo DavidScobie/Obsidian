@@ -7,6 +7,11 @@ Types of jobs:
 Freddie recommends: [[Royal_Fleet_Auxillary]]
 Freddie recommends: [[RAF]]
 [[Surface_Fleet]]
+[[Defence_Digital_Electromagnetic_Spectrum_Manager]]
+[[Dynamic_Graduate_Scheme]]
+
+
+
 
 
 

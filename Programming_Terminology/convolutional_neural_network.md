@@ -1,0 +1,3 @@
+CNNs have a series of layers, each of which detects different features of an input image.
+The process starts by sliding a filter designed to detect certain features over the input image, a process known as convolution operation. This feature map then serves as an input for the next layer, enabling a CNN to gradually build a hierarchical representation of the image.
+For example, after an initial layer detects the presence of edges, a deeper layer could use that information to start identifying shapes.

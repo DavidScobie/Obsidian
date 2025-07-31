@@ -1,0 +1,6 @@
+- How do you make the atmospheric models as the atmosphere is so variable? 
+- How do you ensure that the jamming and spoofing technology gets into the right hands?
+- I saw a paper on autonomous vehicles, how did you model how often areas can be found by GPS signals?
+- What lunar modelling are you doing?
+- Are you planning to do any ML?
+- Would the role involve RF circuit development? Or would it primarily be modelling?

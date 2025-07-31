@@ -1,0 +1,1 @@
+function that computes the difference between the current output of a network and the expected output

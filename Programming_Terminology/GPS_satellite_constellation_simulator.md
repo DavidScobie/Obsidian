@@ -1,0 +1,1 @@
+Configure: the quantity and position of satellites, power levels, transmission band(s), constellation health, and [[almanac]] data.

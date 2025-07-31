@@ -1,0 +1,4 @@
+- Signal effects such as atmospheric disturbances, multipath and obscuration are quantified, controlled and precisely repeatable
+- Vehicle and satellite trajectory and associated dynamics are modelled
+- Future signals can be generated to allow testing before expensive deployment into space
+- Various configurations enabling: Remotely generated trajectories; interference signals; simulated GNSS signals

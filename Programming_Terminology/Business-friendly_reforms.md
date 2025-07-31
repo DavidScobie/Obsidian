@@ -1,0 +1,1 @@
+Such as being friendly to international investors (Ireland)

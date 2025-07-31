@@ -1,0 +1,1 @@
+little loss between the output of the power amp and the output connector. However, they have finite lifetimes, lower repeatability, slower switching speeds and can introduce [[phase_shifts]].

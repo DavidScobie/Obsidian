@@ -1,0 +1,2 @@
+The set of all possible standing waves are known as the harmonics of a system. The simplest of the harmonics is called the fundamental or first harmonic. Subsequent standing waves are called the second harmonic, third harmonic, etc.
+![[harmonics_diagram.png]]

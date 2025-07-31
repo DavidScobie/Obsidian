@@ -1,0 +1,4 @@
+- User has no control over the GNSS signal being transmitted
+- The signal is non-repeatable between tests. Due to: changing satellite positions; environmental effects; objects around antenna (cars, trucks...)
+- Signal errors which are unknown to receiver
+- 

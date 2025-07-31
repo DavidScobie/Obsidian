@@ -1,0 +1,1 @@
+https://www.findaphd.com/phds/project/studying-tipping-points-and-noise-induced-transitions-in-the-climate-system-with-rare-event-simulation-techniques/?p185234

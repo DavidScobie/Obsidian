@@ -1,0 +1,1 @@
+Considers non-detected, detected and observed data independently.

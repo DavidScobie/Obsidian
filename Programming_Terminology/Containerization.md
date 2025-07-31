@@ -1,0 +1,1 @@
+I have used the containerization platform [[docker]], to run linux on a windows pc as I used [[WSL]].

@@ -1,0 +1,3 @@
+https://www.findaphd.com/phds/project/optimising-underground-energy-storage-systems-through-mathematical-modelling-and-data-integration/?p180832
+
+Background physics: Left-over wind or solar energy is used to split H2 and H2O through hydrolysis. The H2 is stored in liquid at a low temperature. If desired, the H2 is mixed with CO2 to make methane (CH4) AKA synthetic natural gas (can be used for heating, gas turbines, transportation...)

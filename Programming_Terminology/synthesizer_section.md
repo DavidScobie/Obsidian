@@ -1,0 +1,1 @@
+The 2 main types are [[direct_analogue_sythesis]] and [[direct_digital_sythesis]].

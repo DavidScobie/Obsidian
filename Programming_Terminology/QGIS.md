@@ -1,0 +1,3 @@
+Quantum Geographic Information System 
+GIS provides surveyors with a range of tools for planning, implementing, managing, and collating data for a whole surveying project.
+I worked with people at WSP who used this for transport planning projects. You can create and modify layers of infrastructure very precisely.![[QGIS_screenshot.png]] I used QGIS to identify locations of motorway junctions and segments. Which were used along with other tools to find the flows of vehicles on roads. 

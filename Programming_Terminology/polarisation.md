@@ -1,0 +1,1 @@
+the plane in which the wave's oscillations occur

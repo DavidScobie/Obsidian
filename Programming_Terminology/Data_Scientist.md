@@ -8,8 +8,7 @@ A continuing education (34% have [[masters_degree]]s, 13% have [[PhD]]'s). They 
 Good degrees for preparation:
 [[computer_science]], [[maths]], or [[science]]-based
 
-Skills that would be good to learn:
-[[LLM]]s; [[MLOps]]; [[cloud]] platforms ([[Microsoft_Azure]])
+[[Data_Science_skills_to_learn]]
 
 Advertisements:
 [[CMSPI]]
@@ -21,6 +20,8 @@ Advertisements:
 [[Talent_Pool]]
 [[Kyndryl]]
 [[Metrica]]
+[[Talent_Hero]]
+
 
 
 

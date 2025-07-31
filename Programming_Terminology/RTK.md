@@ -1,0 +1,2 @@
+Real Time Kinematic
+A fixed base station with a precisely known location is established. This station receives satellite signals and calculates errors caused by factors like [[atmospheric_interference_modelling]] and satellite orbit inaccuracies.

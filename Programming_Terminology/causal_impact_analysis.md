@@ -1,0 +1,1 @@
+measures change in a metric after some event has taken place. 

@@ -1,0 +1,1 @@
+[[solid_state]] attenuators have much longer life spans, do not introduce phase shifts, and switch much faster. However, they may have increased insertion loss and temperature drift, more limited attenuation, and narrower frequency range

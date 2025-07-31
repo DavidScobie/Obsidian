@@ -1,0 +1,1 @@
+2/7/25 call - They recommended me to apply for roles on the site. If don't hear anything back for a few days then call up LaFosse again.

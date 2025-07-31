@@ -1,0 +1,4 @@
+- The aspects of importance are phase noise and the amplitude of [[harmonics]] and spurious emissions relative to the intended signal.
+- Unfortunately, signal generators are constructed from non-ideal components that produce phase noise and signal harmonics, both of which generate intermodulation products and result in spurious emissions
+- [[harmonics]] are unwanted signals that occur at integer multiples of the intended CW output signal. Frequency multipliers are often used in signal generators to extend the frequency range which can lead to the presence of sub-harmonics
+![[spectral_purity_diagram.jpg]]

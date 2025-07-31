@@ -1,0 +1,1 @@
+Adapt signal transit times with varied reflection and interference settings to simulate a receiver in motion. Also adjust trajectory of signals to mimic [[space_vehicle]] orbits.

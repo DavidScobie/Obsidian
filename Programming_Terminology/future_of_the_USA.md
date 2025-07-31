@@ -1,0 +1,1 @@
+Will still be most dominant global power. Slightly smaller than chinas, but better in terms of intellectualy best, dollar (dominant).

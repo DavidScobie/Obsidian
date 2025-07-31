@@ -1,0 +1,13 @@
+Method of long-distance radio communication that utilizes the Earth's ionosphere to reflect radio waves back to the ground, enabling communication over vast distances.
+
+1. **Ionosphere:** The Earth's ionosphere is a layer of the Earth's atmosphere located between approximately 60 kilometers (37 miles) and 1000 kilometers (620 miles) above the Earth's surface. It is composed of ionized particles (ions and free electrons) created by solar radiation. The ionosphere has different layers (D, E, and F) with varying densities of ionization, which affect the propagation of radio waves.
+    
+2. **Reflection and Refraction:** Radio waves transmitted from a ground-based transmitter towards the ionosphere can be partially refracted or bent by the ionized particles in the ionosphere. Depending on the frequency of the radio waves and the ionospheric conditions, some waves may be refracted back to Earth, while others may penetrate through the ionosphere into space or be absorbed.
+    
+3. **Multiple Reflections:** Skywave propagation can involve multiple reflections of radio waves between the ionosphere and the Earth's surface, allowing signals to be received beyond the line-of-sight range of the transmitter. This enables long-distance communication over the horizon, across continents, or even around the globe.
+    
+4. **Frequency Dependent:** The effectiveness of skywave propagation depends on the frequency of the radio waves. Lower frequency (longwave and medium-wave) radio waves tend to penetrate deeper into the ionosphere and are more likely to be refracted back to Earth over longer distances. Higher frequency (shortwave) radio waves may be absorbed or penetrate through the ionosphere, limiting their range.
+    
+5. **Day-Night Variation:** Skywave propagation is influenced by diurnal and seasonal variations in ionospheric conditions, which are affected by factors such as solar activity, time of day, latitude, and geomagnetic disturbances. In general, skywave propagation tends to be more reliable during the daytime due to increased ionization in the ionosphere, while nighttime propagation may be affected by absorption and fading.
+    
+6. **Applications:** Skywave radio transmission is used in various applications, including long-distance broadcasting (e.g., international shortwave radio broadcasting), amateur radio communication (e.g., HF bands), maritime and aviation communication, military communication, and emergency communication. It provides a cost-effective and reliable means of communication over long distances, particularly in remote or inaccessible areas.

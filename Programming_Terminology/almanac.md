@@ -1,0 +1,1 @@
+Set of orbital parameters transmitted by satellites, providing a long-term prediction of satellite positions.

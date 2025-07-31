@@ -1,0 +1,1 @@
+Simulation of 6 [[space_vehicle]]s is enough to represent 1 orbital plane. Although 12 [[space_vehicle]]s can be simulated, for interoperability between 2 constellations.

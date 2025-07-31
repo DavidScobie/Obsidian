@@ -1,0 +1,1 @@
+legal professional authorized to represent others in legal proceedings

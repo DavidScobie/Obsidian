@@ -1,0 +1,1 @@
+When [[public_assets]] are sold to private companies.

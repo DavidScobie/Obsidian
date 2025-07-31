@@ -1,0 +1,1 @@
+Foreign competitors undercut local ones in price. Local companies lose, destroys jobs.

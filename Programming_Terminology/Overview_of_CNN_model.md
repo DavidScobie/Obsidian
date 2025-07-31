@@ -1,0 +1,3 @@
+- Purpose - Denoise under-sampled Cardiac Paediatric MR images to speed up scan times from 1 hour to 8 minutes.
+- Model training - Feed labelled fully-sampled *truth*, and synthetically *under-sampled* images to the CNN. It learns to map from under-sampled to truth. This denoises the streaks and aliasing.
+- Model inference - Feed *real* under-sampled images to the CNN and it should denoise these too.

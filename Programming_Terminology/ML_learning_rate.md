@@ -1,0 +1,1 @@
+The step size towards the minimum of the loss function 

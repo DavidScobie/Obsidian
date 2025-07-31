@@ -1,0 +1,1 @@
+departure of employees, without the intention to replace them.

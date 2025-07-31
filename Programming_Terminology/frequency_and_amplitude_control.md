@@ -1,0 +1,2 @@
+- Aspects of importance are range, accuracy, stability, resolution, switching speed, dwell time
+- Nuances due to manufacturers here which depend on what is defined as a "settled" criterion

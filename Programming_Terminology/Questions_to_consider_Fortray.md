@@ -1,0 +1,1 @@
+This course is more expensive than IT career switch. How is it worth the extra money?

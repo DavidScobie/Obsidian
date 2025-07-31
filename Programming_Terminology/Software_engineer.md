@@ -8,8 +8,8 @@ Advertisements:
 [[BAE_Systems]]
 [[Alloyed]]
 [[evolito]]
-[[Diamond_light_source]]
 [[Pirical]]
+
 
 
 

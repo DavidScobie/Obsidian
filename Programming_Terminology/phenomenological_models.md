@@ -1,0 +1,3 @@
+- 2-phase exponential function
+- Sum of 2, 2-phase exponential functions
+- Sum of 2, 2-phase exponential functions with a cosine multiplier - Captures diurnal variation
